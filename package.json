@@ -1,0 +1,22 @@
+{
+  "name": "epic-tech-ai-backend",
+  "version": "1.0.0",
+  "description": "Socket.io backend for Epic Tech AI chat with Grok/xAI integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "author": "💯Epic Tech AI🔥™️",
+  "license": "MIT"
+}
